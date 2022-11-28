@@ -4,10 +4,10 @@ import SearchForm from '../lib/SearchForm';
 export default function Home(props) {
   return (
     <main>
-      <h1>Create a Car</h1>
+      <h1>Create a Auction</h1>
       <CarForm />
       <hr />
-      <h1>Find a Car</h1>
+      <h1>Find a Auction</h1>
       <SearchForm />
     </main>
   );
